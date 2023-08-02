@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name ="author" content="ravi  mahato">
+        <meta name ="descripation" content="this  is about my personal information">
+        <meta name ="keyword" content="name, class,drgree">
+        <meta http-equiv="refresh" content="5">
+        <title>
+            first html program
+            </title>
+</head>
+<body>
+    <header>
+        <h5> PERSONAL INFORMATIONB</h5>
+    <hr color="red">
+    <img src="C:\Users\ravij\OneDrive\Pictures\WhatsApp Image 2023-02-12 at 12.24.26.jpg" width="150" height="150" alt="RAVI MAHATO">
+    <p><h5> hii there , this is  ravi mahato  founder of this website<br>
+        i m currentnly working on  the my first dynamc website.<br>
+        i hope you will like . keep support me.
+    </h5></p>
+    <nav>
+    <a href="#school">school </a><br>
+    <a href="#higher secondery">higher secondery </a><br>
+    <a href="#collage">collage</a><br>
+    <a href="#get touch with me">contach</a><br>
+</nav>
+
+        </header>
+
+        <main>
+            <section id="school">
+                
+                    <h4> school name: adarsh hindi vidyalya gadchandur<br>
+                        place: gadchandur , maharashatra india, 442908.<br>
+                        occupation : 10th pass<br>
+                    </h4>                
+                    </section>
+
+                    <section id="higher secondery">
+                        
+                            <h4>
+                                collage name : SP collage gadchandur.<br>
+                                place : gadchandur , maharashtra india - 442908.<br>
+                                occupation :12th pass <br>
+
+                            </h4>
+                        
+</section>
+
+<section id="collage">
+    
+        <h4>
+             collage name : sardar patel mahavidyalya chandrapur.<br>
+             place : chandrapur , maharashatra<br>
+             occupation : BCA final year currently pursuing.<br>
+        </h4>
+    
+
+</section>
+
+
+        </main>
+        <footer id="get touch with me">
+            <h4>
+                mobile no. : 9359284756<br>
+                gmail : ravijitendramahato@gmail.com<br>
+                github : Ravi mahato
+            </h4>
+            </footer>
+            <a href="#">back to top</a>
+    
+    </body>
+    </html>
+    
